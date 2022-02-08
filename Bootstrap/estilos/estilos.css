@@ -1,0 +1,27 @@
+.colores
+{
+    background-color: rgb(177, 177, 177);
+    height: 800px;
+}
+
+.container1
+{
+    background-color: yellow;
+    height: 200px;
+}
+
+.container2
+{
+    background-color: green;
+    height: 200px;
+}
+
+.container3
+{
+    background-color: blue;
+    height: 200px;
+}
+
+nav{
+    background-color: red !important;
+}

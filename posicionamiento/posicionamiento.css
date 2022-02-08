@@ -1,0 +1,20 @@
+.container
+{
+    width: 150pt;
+    font-size: 10pt;
+    margin-bottom: 5pt;
+    text-align: justify;
+}
+
+.important
+{
+    position: fixed;
+    background-color: red;
+    top: 15px;
+    left: 15px;
+}
+
+.important2
+{
+    position: relative;
+}

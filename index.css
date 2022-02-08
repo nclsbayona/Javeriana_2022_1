@@ -1,0 +1,46 @@
+h1
+{
+    color: red;
+}
+
+p
+{
+    color: blue;
+}
+
+h1 {
+    color: green;
+    font-size: 52px;
+}
+
+#titulo-inicial
+{
+    color: red;
+}
+
+#parrafo
+{
+    color: lawngreen;
+    font-size: 40px;
+}
+
+.clasecss
+{
+    font-size: 40px;
+}
+
+.clasecss2
+{
+    color: magenta;
+}
+
+img[alt=Imagen]
+{
+    width: 200px;
+    border: solid;
+}
+
+img.claseImagen
+{
+    width: 100px;
+} 

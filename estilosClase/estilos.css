@@ -1,0 +1,27 @@
+img{
+   width: 200px; 
+}
+
+p img
+{
+   border: solid;
+   color: red; 
+}
+
+div > img
+{
+   border: solid;
+   color: red; 
+}
+
+section + img
+{
+   border: solid;
+   color: blue; 
+}
+
+nav ~ img
+{
+   border: solid;
+   color: purple; 
+}
